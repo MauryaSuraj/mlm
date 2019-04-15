@@ -1,0 +1,10 @@
+[28-Jan-2019 12:27:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/helpfastfor4/public_html/src/PHPMailerAutoload.php on line 45
+[28-Jan-2019 12:35:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/helpfastfor4/public_html/src/PHPMailerAutoload.php on line 45
+[28-Jan-2019 12:47:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/helpfastfor4/public_html/src/PHPMailerAutoload.php on line 45
+[28-Jan-2019 12:51:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/helpfastfor4/public_html/src/PHPMailerAutoload.php on line 45
+[28-Jan-2019 13:10:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/helpfastfor4/public_html/src/PHPMailerAutoload.php on line 45
+[28-Jan-2019 13:56:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/helpfastfor4/public_html/src/PHPMailerAutoload.php on line 45
+[01-Feb-2019 09:32:49 UTC] PHP Warning:  Use of undefined constant SK1037 - assumed 'SK1037' (this will throw an Error in a future version of PHP) in /home/helpfastfor4/public_html/include/function.php on line 111
+[01-Feb-2019 09:33:37 UTC] PHP Warning:  Use of undefined constant LL1038 - assumed 'LL1038' (this will throw an Error in a future version of PHP) in /home/helpfastfor4/public_html/include/function.php on line 111
+[01-Feb-2019 09:36:59 UTC] PHP Warning:  Use of undefined constant SK1037 - assumed 'SK1037' (this will throw an Error in a future version of PHP) in /home/helpfastfor4/public_html/include/function.php on line 111
+[01-Feb-2019 09:37:14 UTC] PHP Warning:  Use of undefined constant SK1037 - assumed 'SK1037' (this will throw an Error in a future version of PHP) in /home/helpfastfor4/public_html/include/function.php on line 111
